@@ -1,0 +1,1 @@
+CREATE DATABASE simple_bank OWNER root
