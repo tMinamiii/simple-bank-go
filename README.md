@@ -1,23 +1,23 @@
 # Backend master class Series' Articles
 
-1. https://dev.to/techschoolguru/design-db-schema-and-generate-sql-code-with-dbdiagram-io-4ko5
-2. https://dev.to/techschoolguru/install-use-docker-postgres-table-plus-to-create-db-schema-44he
-3. https://dev.to/techschoolguru/how-to-write-run-database-migration-in-golang-5h6g
-4. https://dev.to/techschoolguru/generate-crud-golang-code-from-sql-and-compare-db-sql-gorm-sqlx-sqlc-560j
-5. https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no
-6. https://dev.to/techschoolguru/a-clean-way-to-implement-database-transaction-in-golang-2ba
-7. https://dev.to/techschoolguru/db-transaction-lock-how-to-handle-deadlock-22o8
-8. https://dev.to/techschoolguru/how-to-avoid-deadlock-in-db-transaction-queries-order-matter-oh7
-9. https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e
-10. https://dev.to/techschoolguru/how-to-setup-github-actions-for-go-postgres-to-run-automated-tests-81o
-11. https://dev.to/techschoolguru/implement-restful-http-api-in-go-using-gin-4ap1
-12. https://dev.to/techschoolguru/load-config-from-file-environment-variables-in-golang-with-viper-2j2d
-13. https://dev.to/techschoolguru/mock-db-for-testing-http-api-in-go-and-achieve-100-coverage-4pa9
-14. https://dev.to/techschoolguru/implement-transfer-money-api-with-a-custom-params-validator-in-go-2op2
-15. https://dev.to/techschoolguru/add-users-table-with-unique-foreign-key-constraints-in-postgresql-1i29
-16. https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek
-17. https://dev.to/techschoolguru/how-to-securely-store-passwords-3cg7
-18. https://dev.to/techschoolguru/how-to-write-stronger-unit-tests-with-a-custom-go-mock-matcher-55pc
-19. https://dev.to/techschoolguru/why-paseto-is-better-than-jwt-for-token-based-authentication-1b0c
-20. https://dev.to/techschoolguru/how-to-create-and-verify-jwt-paseto-token-in-golang-1l5j
-21. https://dev.to/techschoolguru/implement-login-user-api-that-returns-paseto-or-jwt-access-token-in-go-5b1p
+1. [Design DB schema and generate SQL code with dbdiagram.io](https://dev.to/techschoolguru/design-db-schema-and-generate-sql-code-with-dbdiagram-io-4ko5)
+2. [Install & use Docker + Postgres + TablePlus to create DB schema](https://dev.to/techschoolguru/install-use-docker-postgres-table-plus-to-create-db-schema-44he)
+3. [How to write & run database migration in Golang](https://dev.to/techschoolguru/how-to-write-run-database-migration-in-golang-5h6g)
+4. [Generate CRUD Golang code from SQL | Compare db/sql, gorm, sqlx, sqlc](https://dev.to/techschoolguru/generate-crud-golang-code-from-sql-and-compare-db-sql-gorm-sqlx-sqlc-560j)
+5. [Write Go unit tests for db CRUD with random data](https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no)
+6. [A clean way to implement database transaction in Golang](https://dev.to/techschoolguru/a-clean-way-to-implement-database-transaction-in-golang-2ba)
+7. [DB transaction lock & How to handle deadlock](https://dev.to/techschoolguru/db-transaction-lock-how-to-handle-deadlock-22o8)
+8. [How to avoid deadlock in DB transaction? Queries order matter!](https://dev.to/techschoolguru/how-to-avoid-deadlock-in-db-transaction-queries-order-matter-oh7)
+9. [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e)
+10. [How to setup Github Actions for Go + Postgres to run automated tests](https://dev.to/techschoolguru/how-to-setup-github-actions-for-go-postgres-to-run-automated-tests-81o)
+11. [Implement RESTful HTTP API in Go using Gin](https://dev.to/techschoolguru/implement-restful-http-api-in-go-using-gin-4ap1)
+12. [Load config from file & environment variables in Golang with Viper](https://dev.to/techschoolguru/load-config-from-file-environment-variables-in-golang-with-viper-2j2d)
+13. [Mock DB for testing HTTP API in Go and achieve 100% coverage](https://dev.to/techschoolguru/mock-db-for-testing-http-api-in-go-and-achieve-100-coverage-4pa9)
+14. [Implement transfer money API with a custom params validator in Go](https://dev.to/techschoolguru/implement-transfer-money-api-with-a-custom-params-validator-in-go-2op2)
+15. [Add users table with unique & foreign key constraints in PostgreSQL](https://dev.to/techschoolguru/add-users-table-with-unique-foreign-key-constraints-in-postgresql-1i29)
+16. [How to handle DB errors in Golang correctly](https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek)
+17. [How to securely store passwords?](https://dev.to/techschoolguru/how-to-securely-store-passwords-3cg7)
+18. [How to write stronger unit tests with a custom go-mock matcher](https://dev.to/techschoolguru/how-to-write-stronger-unit-tests-with-a-custom-go-mock-matcher-55pc)
+19. [Why PASETO is better than JWT for token-based authentication?](https://dev.to/techschoolguru/why-paseto-is-better-than-jwt-for-token-based-authentication-1b0c)
+20. [How to create and verify JWT & PASETO token in Golang](https://dev.to/techschoolguru/how-to-create-and-verify-jwt-paseto-token-in-golang-1l5j)
+21. [Implement login user API that returns PASETO or JWT access token in Go](https://dev.to/techschoolguru/implement-login-user-api-that-returns-paseto-or-jwt-access-token-in-go-5b1p)
