@@ -1,10 +1,10 @@
 .PHONY: createdb
 createdb:
-	docker exec -it postgres12 createdb --username=root --owner=root simple_bank
+	docker exec -it simple-bank-go-postgres12-1 createdb --username=root --owner=root simple_bank
 
 .PHONY: dropdb
 dropdb:
-	docker exec -it postgres12 dropdb simple_bank
+	docker exec -it simple-bank-go-postgres12-1 dropdb simple_bank
 
 .PHONY: migrate-up
 migrate-up:
